@@ -85,3 +85,41 @@ through the project life cycle.
 	a button that displays all of the stocks
 	click on a stock to look at individual data
 	select 2 stocks 
+	
+	
+
+## Requirements: 
+
+### Functional
+
+	scrape stock data from - somewhere -
+	Select a list of stocks
+	Choose a stock to display
+	Comparing Stocks
+	Get the data
+		Stock metadata
+			get company name
+			get product company sells
+			get product popularity (consumer needs)
+			get stock price trend chart (chart should show stock performance up to 5 years)
+			get PE ratio (price per earning) and PS ratio (price per share)
+			get company cash reserve
+			get company debt
+			get management effectiveness data (return on asset, and return on equity data)
+		Comparative analysis (two+ stocks)
+
+| note: (we need to run our assignment through prof. before submission. I am listening to him pull apart people's ideas.
+
+### Nonfunctional
+		
+	Load the list within 3 seconds
+	provide a complete list
+	provide accurate data
+	readability/understandability
+    
+
+## User Cases
+
+	a button that displays all of the stocks
+	click on a stock to look at individual data
+	select 2 stocks 
